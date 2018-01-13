@@ -26,10 +26,10 @@ add_theme_support('automatic-feed-links');
 ***************************************************************/
 
 
-define('LIBRIVOX_CATALOG_URL', 'http://librivox.org/'); //replace w/  get_bloginfo('url'); 
-define('LIBRIVOX_CATALOG_SEARCH', 'http://librivox.org/search'); //replace w/  get_bloginfo('url');
-define('LIBRIVOX_LATEST_RELEASES', 'http://librivox.org/api/lastest_releases?format=json');
-define('LIBRIVOX_STATISTICS', 'http://librivox.org/api/statistics?format=json');
+define('LIBRIVOX_CATALOG_URL', 'https://librivox.org/'); //replace w/  get_bloginfo('url'); 
+define('LIBRIVOX_CATALOG_SEARCH', 'https://librivox.org/search'); //replace w/  get_bloginfo('url');
+define('LIBRIVOX_LATEST_RELEASES', 'https://librivox.org/api/lastest_releases?format=json');
+define('LIBRIVOX_STATISTICS', 'https://librivox.org/api/statistics?format=json');
 
 
 

@@ -4,7 +4,7 @@
     	
     	    <header>
     		    <h3 class="title"><?php _e( 'Latest Audiobook Releases', 'librivox' ); ?></h3>
-    			<a class="more-link-home" href="http://librivox.org/search/title"><?php _e( 'more audiobooks &raquo;', 'librivox'); ?></a>
+    			<a class="more-link-home" href="https://librivox.org/search/title"><?php _e( 'more audiobooks &raquo;', 'librivox'); ?></a>
     		</header>
 
             <ul class="browse-list">
