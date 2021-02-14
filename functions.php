@@ -210,7 +210,7 @@ function format_results($items)
 
 // Lets try to re-use as much formatting code from catalog as possible such as
 // create_full_title and format_authors.
-require_once('../catalog/application/helpers/previewer_helper.php');
+require_once(ABSPATH . '../catalog/application/helpers/previewer_helper.php');
 function base_url() { return LIBRIVOX_CATALOG_URL; }
 
 // This function mimics title_blade.php from catalog (it would be nice if we could
