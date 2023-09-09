@@ -28,7 +28,7 @@ add_theme_support('automatic-feed-links');
 
 define('LIBRIVOX_CATALOG_URL', 'https://librivox.org/'); //replace w/  get_bloginfo('url'); 
 define('LIBRIVOX_CATALOG_SEARCH', 'https://librivox.org/search'); //replace w/  get_bloginfo('url');
-define('LIBRIVOX_LATEST_RELEASES', 'https://librivox.org/api/lastest_releases?format=json');
+define('LIBRIVOX_LATEST_RELEASES', 'https://librivox.org/api/latest_releases?format=json');
 define('LIBRIVOX_STATISTICS', 'https://librivox.org/api/statistics?format=json');
 
 
