@@ -24,7 +24,8 @@
     <ul class="assistive-text">
       <li><a href="#sub-menu">Skip to navigation</a></li>
       <li><a href="#main-content">Skip to front page content</a></li>
-      <li><a href="#secondary-content">Skip to secondary content</a></li>
+      <li><a href="#secondary-content">Skip to latest audio books</a></li>
+	  <li><a href="#blog-content">Skip to latest blog posts</a></li>
       <li><a href="#footer">Skip to footer</a></li>
     </ul>
   

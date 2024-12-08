@@ -1,5 +1,5 @@
 		<!-- BLOG -->
-		<div class="secondary-content post-list-home">	
+		<div id="blog-content" class="post-list-home">
     		<header>
     			<h3 class="title"><?php _e( 'Latest News', 'librivox' ); ?></h3>
     			<a class="more-link-home" href="<?php bloginfo( 'url' ); ?>/category/blog"><?php _e( 'more news &raquo;', 'librivox'); ?></a>
