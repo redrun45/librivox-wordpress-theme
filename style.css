@@ -209,7 +209,6 @@ a img {
 **************************************************************/
 
 #top-menu {
-	background: /*add bg*/;
 	position:relative; 
 	text-align:center;
 }
@@ -220,7 +219,6 @@ a img {
 	position:relative; 
 }
 #top-menu ul li { 
-	background: /*add bg*/;
 	display: inline; /*underscoreIE6 only*/
 	_width: 100%; /*underscore is IE6 only*/
 	
@@ -653,9 +651,6 @@ p.postMeta a {
 	padding: 7px 2px;		
 }
 
-.bypostauthor {
-}
-.sticky {}
 .page-link a {
 	border-right:1px solid #808080;
 	margin-right:4px;
@@ -720,8 +715,6 @@ div.aligncenter {
 /************************************************************** 
 * 404 PAGE
 **************************************************************/
-.error-page {
-}
 #primaryContent .error-page h2 {
 	text-align:center;
 }
