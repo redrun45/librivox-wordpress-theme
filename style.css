@@ -266,7 +266,7 @@ a img {
 .homepage-main-wrap {
 	background-color: #fff;
 	box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-	margin: 45px auto;
+	margin: 20px auto;
 	padding: 30px;
 	width: 64.5%;
 	max-width: 840px;
@@ -364,9 +364,6 @@ a img {
 
 /* Main Nav */
 
-.main-menu-wrap-wp {
-	margin-bottom: 40px;
-}
 .home .main-menu h2 {
 	font-size: 0.9375em	; /* 15/16 */
 	font-weight: bold;
@@ -482,9 +479,10 @@ table.browse-list {
 **************************************************************/
 .home .main-content {
 	padding: 0 0 50px;
+	margin: 5px auto;
 }
 .main-menu-wrap-wp {
-	padding-bottom: 50px;
+	padding-bottom: 30px;
 }
 .primary-content,
 .audio-book-feed {
@@ -922,7 +920,7 @@ img.avatar {
 	}
 	.primary-content,
 	.main-menu-wrap-wp {
-		margin-bottom: 30px;
+		margin-bottom: 15px;
 	}
 	.audio-book-feed header, .post-list-home header {
 		margin-bottom: 10px;
